@@ -1,8 +1,6 @@
 ![](61.png)
 ![](62.png)
 
-Berikut adalah penjelasan untuk menambahkan komponen di halaman Ionic yang dapat Anda masukkan dalam README.md:
-
 ---
 
 ## Cara Menambahkan Komponen di Halaman Ionic
